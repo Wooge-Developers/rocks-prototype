@@ -1,0 +1,16 @@
+body {
+    background-color: lightgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div.header > .title {
+    padding: 6px; 
+    display:inline-block;vertical-align:top
+}
+
+hr {
+    width:50%;
+    text-align:left;
+    margin-left:0;
+}
+
